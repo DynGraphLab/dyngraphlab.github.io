@@ -1,1 +1,1 @@
-# DynGraphLab.github.io
+# schulzchristian.github.io
